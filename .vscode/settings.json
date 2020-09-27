@@ -1,0 +1,23 @@
+{
+  "workbench.colorCustomizations": {
+    "[One Monokai]": {
+      "editorLineNumber.foreground": "#a1bcd8"
+    },
+    "[Palenight Operator]": {
+      "editorLineNumber.foreground": "#a1bcd8",
+      "terminal.ansiBlack": "#010c16",
+      "terminal.background": "#011627",
+      "editor.background": "#011627",
+      "sideBar.background": "#011627",
+      "statusBar.foreground": "#ffffff",
+      "sideBar.foreground": "#ffffff",
+      "activityBar.foreground": "#ffffff"
+    },
+    "[Moonlight II Italic]": {
+      "editorLineNumber.foreground": "#a1bcd8"
+    },
+    "activityBar.background": "#5C1014",
+    "titleBar.activeBackground": "#81161D",
+    "titleBar.activeForeground": "#FEFBFB"
+  }
+}
